@@ -4,6 +4,7 @@ For running the client folder you have to first run the "npm install" commnand i
 For running the server folder you have to again run the "npm install" commnad in the command prompt
 
 The client folder consists of home,contact us,login,sign up and logout routes
+For the client side I have used React JS library which make the user experience smooth. For the backend I have the Express JS server and also implemented the authentication for the same.  The database used for this projecy is MongoDB. The database design is also created by me at my own.
 
 (i) Home Route
 <img width="949" alt="First" src="https://github.com/Aashish2109/XENONPROJECT/assets/99539876/1df112bb-1b1f-45a8-809b-bf390448f02e">
