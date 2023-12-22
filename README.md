@@ -18,7 +18,7 @@ The client folder consists of home,contact us,login,sign up and logout routes
 (iv) Sign Up Route
 <img width="955" alt="Fifth" src="https://github.com/Aashish2109/XENONPROJECT/assets/99539876/0f3a5d09-1b56-43da-828a-bf36daaf4923">
 
-
 (v) Database
+
 <img width="789" alt="Sixth" src="https://github.com/Aashish2109/XENONPROJECT/assets/99539876/4dbc51c1-1988-4214-a7e7-eb8f16744c55">
 
