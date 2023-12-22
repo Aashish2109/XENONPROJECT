@@ -4,6 +4,7 @@ For running the client folder you have to first run the "npm install" commnand i
 For running the server folder you have to again run the "npm install" commnad in the command prompt
 
 The client folder consists of home,contact us,login,sign up and logout routes
+
 (i) Home Route
 <img width="949" alt="First" src="https://github.com/Aashish2109/XENONPROJECT/assets/99539876/1df112bb-1b1f-45a8-809b-bf390448f02e">
 <img width="938" alt="Second" src="https://github.com/Aashish2109/XENONPROJECT/assets/99539876/d59e2041-f84a-4e55-82e8-51772ecc062a">
